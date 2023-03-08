@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @laxmipriyapattanayak
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning html, css, JavaScript and other Javascript framework like vue.js, angular.js, react.js and etc..
 - 💞️ I’m looking to collaborate on any Frontend related activity
 - 📫 How to reach me ? I'm available on cma.cma89@gmail.com
 

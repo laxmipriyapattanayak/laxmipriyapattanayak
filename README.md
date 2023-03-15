@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laxmipriyapattanayak
+- 👋 Hi, I’m @laxmipriya Pattanayak
 - 👀 I’m interested in Frontend Development
 - 💞️ I’m looking to collaborate on any Frontend related activity
 - 📫 How to reach me ? I'm available on cma.cma89@gmail.com

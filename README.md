@@ -16,7 +16,7 @@
 - 📫 How to reach me ? I'm available on 
 
   
-  <a href = "mailto:cma.cma89@gmail.com"><img src="https://img.shields.io/badge/Email-%20-blue?style=flat&logo=gmail" target="_blank"></a>
+  <a href = "mailto:pattanayaklaxmipriya@gmail.com"><img src="https://img.shields.io/badge/Email-%20-blue?style=flat&logo=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laxmipriya-pattanayak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
